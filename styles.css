@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+:root{
+	background-color:#;
+}
+.container{
+	background-color:#f5f6f4ff;
+	padding:30px;
+}
+
+.testimonial{
+	background:white;
+	padding:10px;
+	border: 1px solid black;
+	margin-bottom: 30px;
+}
+span{
+	text-align:right;
+	font-style: italic;
+	display:block;
+}
