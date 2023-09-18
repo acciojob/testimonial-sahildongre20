@@ -13,7 +13,7 @@
 	border: 1px solid black;
 	margin-bottom: 30px;
 }
-span{
+p:nth-child(even){
 	text-align:right;
 	font-style: italic;
 	display:block;
